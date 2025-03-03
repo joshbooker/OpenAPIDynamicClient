@@ -1,2 +1,1 @@
-# OpenAPIDynamicClient
-OpenAPIDynamicClient
+# OpenAPI Dynamic Client
